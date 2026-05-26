@@ -67,7 +67,7 @@ def fetch_open_meteo() -> pd.DataFrame:
         "study_start": params["start_date"],
         "study_end": params["end_date"],
         "timezone": params["timezone"],
-        "note": "Portfolio rebuild of original academic Wunderground scraping project.",
+        "note": "Reproducible portfolio weather EDA project using Open-Meteo historical hourly data.",
     }
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     df.to_csv(RAW_PATH, index=False)
@@ -79,4 +79,3 @@ if __name__ == "__main__":
     data = fetch_open_meteo()
     print(data.shape)
     print(RAW_PATH)
-
