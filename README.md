@@ -6,7 +6,7 @@
 
 This project analyzes hourly Houston-area weather patterns from January 2022 through January 2023, focusing on temperature, humidity, dew point, precipitation, pressure, wind speed, and wind gusts.
 
-The original academic project scraped Wunderground daily history pages for Houston/KIAH. For this portfolio rebuild, the analysis uses Open-Meteo historical hourly weather data so the project can be reproduced without a long Selenium scraping run.
+The original academic project scraped Wunderground daily history pages for Houston/KIAH; the scraping portion was completed by a project teammate. My contribution focused on cleaning, exploratory analysis, visualization, interpretation, and communicating insights. For this portfolio rebuild, the analysis uses Open-Meteo historical hourly weather data so the project can be reproduced without a long Selenium scraping run.
 
 ## Research Questions
 
@@ -86,7 +86,7 @@ Precipitation was concentrated in fewer rainy periods rather than evenly distrib
 - The portfolio rebuild uses Open-Meteo historical weather data, while the original academic notebook used Wunderground scraping.
 - Weather variables may differ slightly across sources because of station coverage, reanalysis methods, and measurement definitions.
 - This project is EDA-focused and does not forecast weather.
-- The original notebook was a team project; this repository is a cleaned portfolio rebuild of the analysis workflow.
+- The original notebook was a team project; the original web scraping was handled by a teammate, while my contribution focused on cleaning, EDA, visual analysis, interpretation, and reporting.
 
 ## How To Reproduce
 
@@ -119,7 +119,6 @@ python src/analyze_weather.py
 
 ## Skills Demonstrated
 
-- API-based data collection
 - Data cleaning and feature engineering
 - Exploratory data analysis
 - Time-series aggregation
@@ -128,3 +127,6 @@ python src/analyze_weather.py
 - Visual storytelling
 - Reproducible project packaging
 
+## Contribution Note
+
+This project began as a team academic project. A teammate handled the original Wunderground scraping. This repository is my cleaned portfolio rebuild of the analysis, with emphasis on EDA, feature organization, summary tables, visual storytelling, and reproducible documentation.
