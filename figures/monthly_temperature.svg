@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <text x="45.0" y="58.0" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850" fill="#0f172a" text-anchor="start">Monthly Average Temperature</text>
+  <text x="45.0" y="88.0" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400" fill="#64748b" text-anchor="start">Houston temperatures rise into summer and fall into winter</text>
+  <rect x="90.0" y="414.3" width="63.8" height="60.7" rx="8" fill="#c2410c" opacity="0.86"/>
+  <text x="125.4" y="510.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-01</text>
+  <rect x="160.8" y="420.0" width="63.8" height="55.0" rx="8" fill="#c2410c" opacity="0.86"/>
+  <rect x="231.5" y="343.0" width="63.8" height="132.0" rx="8" fill="#c2410c" opacity="0.86"/>
+  <text x="266.9" y="510.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-03</text>
+  <rect x="302.3" y="250.5" width="63.8" height="224.5" rx="8" fill="#c2410c" opacity="0.86"/>
+  <rect x="373.1" y="184.4" width="63.8" height="290.6" rx="8" fill="#c2410c" opacity="0.86"/>
+  <text x="408.5" y="510.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-05</text>
+  <rect x="443.8" y="142.7" width="63.8" height="332.3" rx="8" fill="#c2410c" opacity="0.86"/>
+  <rect x="514.6" y="140.0" width="63.8" height="335.0" rx="8" fill="#c2410c" opacity="0.86"/>
+  <text x="550.0" y="510.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-07</text>
+  <rect x="585.4" y="163.0" width="63.8" height="312.0" rx="8" fill="#c2410c" opacity="0.86"/>
+  <rect x="656.2" y="188.3" width="63.8" height="286.7" rx="8" fill="#c2410c" opacity="0.86"/>
+  <text x="691.5" y="510.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-09</text>
+  <rect x="726.9" y="257.5" width="63.8" height="217.5" rx="8" fill="#c2410c" opacity="0.86"/>
+  <rect x="797.7" y="346.9" width="63.8" height="128.1" rx="8" fill="#c2410c" opacity="0.86"/>
+  <text x="833.1" y="510.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-11</text>
+  <rect x="868.5" y="373.2" width="63.8" height="101.8" rx="8" fill="#c2410c" opacity="0.86"/>
+  <rect x="939.2" y="365.4" width="63.8" height="109.6" rx="8" fill="#c2410c" opacity="0.86"/>
+  <text x="974.6" y="510.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2023-01</text>
+  <line x1="90" y1="475" x2="1010" y2="475" stroke="#94a3b8" stroke-width="2"/>
+  <text x="90.0" y="550.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="start">Lowest monthly avg: 50.6°F</text>
+  <text x="1010.0" y="550.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Highest monthly avg: 84.8°F</text>
+</svg>

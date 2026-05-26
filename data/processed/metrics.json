@@ -1,0 +1,20 @@
+{
+  "records": 9504,
+  "columns": 13,
+  "date_min": "2022-01-01",
+  "date_max": "2023-01-31",
+  "days": 396,
+  "mean_temperature_f": 68.28021885521886,
+  "max_temperature_f": 102.7,
+  "min_temperature_f": 16.0,
+  "total_precipitation_in": 68.78,
+  "rain_hours": 1711,
+  "temp_dewpoint_corr": 0.839,
+  "temp_humidity_corr": -0.137,
+  "hottest_month": "2022-07",
+  "hottest_month_avg_temp_f": 84.822311827957,
+  "rainiest_day": "2023-01-24",
+  "rainiest_day_precip_in": 2.8499999999999996,
+  "hottest_hour": 15,
+  "hottest_hour_avg_temp_f": 77.34166666666667
+}

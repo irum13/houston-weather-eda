@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <text x="45.0" y="58.0" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850" fill="#0f172a" text-anchor="start">Monthly Precipitation Totals</text>
+  <text x="45.0" y="88.0" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400" fill="#64748b" text-anchor="start">Rainfall is concentrated in a smaller number of wetter periods</text>
+  <rect x="90.0" y="254.2" width="63.8" height="195.8" rx="8" fill="#2563eb" opacity="0.82"/>
+  <text x="125.4" y="485.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-01</text>
+  <rect x="160.8" y="361.5" width="63.8" height="88.5" rx="8" fill="#2563eb" opacity="0.82"/>
+  <rect x="231.5" y="275.9" width="63.8" height="174.1" rx="8" fill="#2563eb" opacity="0.82"/>
+  <text x="266.9" y="485.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-03</text>
+  <rect x="302.3" y="349.3" width="63.8" height="100.7" rx="8" fill="#2563eb" opacity="0.82"/>
+  <rect x="373.1" y="346.0" width="63.8" height="104.0" rx="8" fill="#2563eb" opacity="0.82"/>
+  <text x="408.5" y="485.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-05</text>
+  <rect x="443.8" y="388.8" width="63.8" height="61.2" rx="8" fill="#2563eb" opacity="0.82"/>
+  <rect x="514.6" y="349.4" width="63.8" height="100.6" rx="8" fill="#2563eb" opacity="0.82"/>
+  <text x="550.0" y="485.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-07</text>
+  <rect x="585.4" y="198.7" width="63.8" height="251.3" rx="8" fill="#2563eb" opacity="0.82"/>
+  <rect x="656.2" y="390.7" width="63.8" height="59.3" rx="8" fill="#2563eb" opacity="0.82"/>
+  <text x="691.5" y="485.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-09</text>
+  <rect x="726.9" y="305.5" width="63.8" height="144.5" rx="8" fill="#2563eb" opacity="0.82"/>
+  <rect x="797.7" y="120.0" width="63.8" height="330.0" rx="8" fill="#2563eb" opacity="0.82"/>
+  <text x="833.1" y="485.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2022-11</text>
+  <rect x="868.5" y="246.6" width="63.8" height="203.4" rx="8" fill="#2563eb" opacity="0.82"/>
+  <rect x="939.2" y="194.3" width="63.8" height="255.7" rx="8" fill="#2563eb" opacity="0.82"/>
+  <text x="974.6" y="485.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">2023-01</text>
+  <line x1="90" y1="450" x2="1010" y2="450" stroke="#94a3b8" stroke-width="2"/>
+</svg>

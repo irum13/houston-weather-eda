@@ -1,0 +1,10 @@
+{
+  "source": "Open-Meteo Historical Weather API",
+  "source_url": "https://archive-api.open-meteo.com/v1/archive?latitude=29.9844&longitude=-95.3414&start_date=2022-01-01&end_date=2023-01-31&hourly=temperature_2m%2Crelative_humidity_2m%2Cdew_point_2m%2Cprecipitation%2Cpressure_msl%2Cwind_speed_10m%2Cwind_gusts_10m%2Cweather_code&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=America%2FChicago",
+  "latitude": 29.9844,
+  "longitude": -95.3414,
+  "study_start": "2022-01-01",
+  "study_end": "2023-01-31",
+  "timezone": "America/Chicago",
+  "note": "Portfolio rebuild of original academic Wunderground scraping project."
+}

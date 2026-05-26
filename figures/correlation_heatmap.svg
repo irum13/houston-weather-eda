@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="880" viewBox="0 0 960 880">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <text x="45.0" y="58.0" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850" fill="#0f172a" text-anchor="start">Correlation Heatmap</text>
+  <text x="45.0" y="88.0" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400" fill="#64748b" text-anchor="start">Temperature is strongly related to dew point and negatively related to humidity</text>
+  <text x="212.0" y="187.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Temp</text>
+  <text x="273.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="middle">Temp</text>
+  <rect x="230" y="135" width="81" height="81" rx="10" fill="rgba(194,65,12,0.96)"/>
+  <text x="270.5" y="185.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">1.00</text>
+  <rect x="316" y="135" width="81" height="81" rx="10" fill="rgba(37,99,235,0.29)"/>
+  <text x="356.5" y="185.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.14</text>
+  <rect x="402" y="135" width="81" height="81" rx="10" fill="rgba(194,65,12,0.83)"/>
+  <text x="442.5" y="185.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.84</text>
+  <rect x="488" y="135" width="81" height="81" rx="10" fill="rgba(37,99,235,0.19)"/>
+  <text x="528.5" y="185.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.01</text>
+  <rect x="574" y="135" width="81" height="81" rx="10" fill="rgba(37,99,235,0.68)"/>
+  <text x="614.5" y="185.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.64</text>
+  <rect x="660" y="135" width="81" height="81" rx="10" fill="rgba(37,99,235,0.18)"/>
+  <text x="700.5" y="185.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.01</text>
+  <rect x="746" y="135" width="81" height="81" rx="10" fill="rgba(194,65,12,0.28)"/>
+  <text x="786.5" y="185.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.13</text>
+  <text x="212.0" y="273.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Humidity</text>
+  <text x="359.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="middle">Humidity</text>
+  <rect x="230" y="221" width="81" height="81" rx="10" fill="rgba(37,99,235,0.29)"/>
+  <text x="270.5" y="271.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.14</text>
+  <rect x="316" y="221" width="81" height="81" rx="10" fill="rgba(194,65,12,0.96)"/>
+  <text x="356.5" y="271.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">1.00</text>
+  <rect x="402" y="221" width="81" height="81" rx="10" fill="rgba(194,65,12,0.50)"/>
+  <text x="442.5" y="271.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.42</text>
+  <rect x="488" y="221" width="81" height="81" rx="10" fill="rgba(194,65,12,0.31)"/>
+  <text x="528.5" y="271.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.17</text>
+  <rect x="574" y="221" width="81" height="81" rx="10" fill="rgba(37,99,235,0.34)"/>
+  <text x="614.5" y="271.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.21</text>
+  <rect x="660" y="221" width="81" height="81" rx="10" fill="rgba(37,99,235,0.28)"/>
+  <text x="700.5" y="271.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.12</text>
+  <rect x="746" y="221" width="81" height="81" rx="10" fill="rgba(37,99,235,0.37)"/>
+  <text x="786.5" y="271.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.24</text>
+  <text x="212.0" y="359.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Dew Point</text>
+  <text x="445.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="middle">Dew Point</text>
+  <rect x="230" y="307" width="81" height="81" rx="10" fill="rgba(194,65,12,0.83)"/>
+  <text x="270.5" y="357.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.84</text>
+  <rect x="316" y="307" width="81" height="81" rx="10" fill="rgba(194,65,12,0.50)"/>
+  <text x="356.5" y="357.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.42</text>
+  <rect x="402" y="307" width="81" height="81" rx="10" fill="rgba(194,65,12,0.96)"/>
+  <text x="442.5" y="357.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">1.00</text>
+  <rect x="488" y="307" width="81" height="81" rx="10" fill="rgba(194,65,12,0.24)"/>
+  <text x="528.5" y="357.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.07</text>
+  <rect x="574" y="307" width="81" height="81" rx="10" fill="rgba(37,99,235,0.72)"/>
+  <text x="614.5" y="357.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.70</text>
+  <rect x="660" y="307" width="81" height="81" rx="10" fill="rgba(37,99,235,0.23)"/>
+  <text x="700.5" y="357.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.07</text>
+  <rect x="746" y="307" width="81" height="81" rx="10" fill="rgba(37,99,235,0.19)"/>
+  <text x="786.5" y="357.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.01</text>
+  <text x="212.0" y="445.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Precip</text>
+  <text x="531.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="middle">Precip</text>
+  <rect x="230" y="393" width="81" height="81" rx="10" fill="rgba(37,99,235,0.19)"/>
+  <text x="270.5" y="443.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.01</text>
+  <rect x="316" y="393" width="81" height="81" rx="10" fill="rgba(194,65,12,0.31)"/>
+  <text x="356.5" y="443.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.17</text>
+  <rect x="402" y="393" width="81" height="81" rx="10" fill="rgba(194,65,12,0.24)"/>
+  <text x="442.5" y="443.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.07</text>
+  <rect x="488" y="393" width="81" height="81" rx="10" fill="rgba(194,65,12,0.96)"/>
+  <text x="528.5" y="443.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">1.00</text>
+  <rect x="574" y="393" width="81" height="81" rx="10" fill="rgba(37,99,235,0.24)"/>
+  <text x="614.5" y="443.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.08</text>
+  <rect x="660" y="393" width="81" height="81" rx="10" fill="rgba(194,65,12,0.22)"/>
+  <text x="700.5" y="443.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.05</text>
+  <rect x="746" y="393" width="81" height="81" rx="10" fill="rgba(194,65,12,0.27)"/>
+  <text x="786.5" y="443.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.12</text>
+  <text x="212.0" y="531.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Pressure</text>
+  <text x="617.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="middle">Pressure</text>
+  <rect x="230" y="479" width="81" height="81" rx="10" fill="rgba(37,99,235,0.68)"/>
+  <text x="270.5" y="529.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.64</text>
+  <rect x="316" y="479" width="81" height="81" rx="10" fill="rgba(37,99,235,0.34)"/>
+  <text x="356.5" y="529.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.21</text>
+  <rect x="402" y="479" width="81" height="81" rx="10" fill="rgba(37,99,235,0.72)"/>
+  <text x="442.5" y="529.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.70</text>
+  <rect x="488" y="479" width="81" height="81" rx="10" fill="rgba(37,99,235,0.24)"/>
+  <text x="528.5" y="529.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.08</text>
+  <rect x="574" y="479" width="81" height="81" rx="10" fill="rgba(194,65,12,0.96)"/>
+  <text x="614.5" y="529.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">1.00</text>
+  <rect x="660" y="479" width="81" height="81" rx="10" fill="rgba(37,99,235,0.31)"/>
+  <text x="700.5" y="529.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.17</text>
+  <rect x="746" y="479" width="81" height="81" rx="10" fill="rgba(37,99,235,0.34)"/>
+  <text x="786.5" y="529.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.20</text>
+  <text x="212.0" y="617.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Wind</text>
+  <text x="703.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="middle">Wind</text>
+  <rect x="230" y="565" width="81" height="81" rx="10" fill="rgba(37,99,235,0.18)"/>
+  <text x="270.5" y="615.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.01</text>
+  <rect x="316" y="565" width="81" height="81" rx="10" fill="rgba(37,99,235,0.28)"/>
+  <text x="356.5" y="615.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.12</text>
+  <rect x="402" y="565" width="81" height="81" rx="10" fill="rgba(37,99,235,0.23)"/>
+  <text x="442.5" y="615.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.07</text>
+  <rect x="488" y="565" width="81" height="81" rx="10" fill="rgba(194,65,12,0.22)"/>
+  <text x="528.5" y="615.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.05</text>
+  <rect x="574" y="565" width="81" height="81" rx="10" fill="rgba(37,99,235,0.31)"/>
+  <text x="614.5" y="615.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.17</text>
+  <rect x="660" y="565" width="81" height="81" rx="10" fill="rgba(194,65,12,0.96)"/>
+  <text x="700.5" y="615.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">1.00</text>
+  <rect x="746" y="565" width="81" height="81" rx="10" fill="rgba(194,65,12,0.90)"/>
+  <text x="786.5" y="615.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.92</text>
+  <text x="212.0" y="703.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="end">Gust</text>
+  <text x="789.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155" text-anchor="middle">Gust</text>
+  <rect x="230" y="651" width="81" height="81" rx="10" fill="rgba(194,65,12,0.28)"/>
+  <text x="270.5" y="701.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.13</text>
+  <rect x="316" y="651" width="81" height="81" rx="10" fill="rgba(37,99,235,0.37)"/>
+  <text x="356.5" y="701.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.24</text>
+  <rect x="402" y="651" width="81" height="81" rx="10" fill="rgba(37,99,235,0.19)"/>
+  <text x="442.5" y="701.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.01</text>
+  <rect x="488" y="651" width="81" height="81" rx="10" fill="rgba(194,65,12,0.27)"/>
+  <text x="528.5" y="701.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.12</text>
+  <rect x="574" y="651" width="81" height="81" rx="10" fill="rgba(37,99,235,0.34)"/>
+  <text x="614.5" y="701.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">-0.20</text>
+  <rect x="660" y="651" width="81" height="81" rx="10" fill="rgba(194,65,12,0.90)"/>
+  <text x="700.5" y="701.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">0.92</text>
+  <rect x="746" y="651" width="81" height="81" rx="10" fill="rgba(194,65,12,0.96)"/>
+  <text x="786.5" y="701.0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" fill="#111827" text-anchor="middle">1.00</text>
+</svg>
